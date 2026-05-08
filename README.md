@@ -59,3 +59,9 @@ curl -X POST http://44.251.54.146:8080/echo \
 ```bash
 terraform -chdir=infra destroy -var-file=envs/dev/dev.tfvars
 ```
+
+## AWS Console
+
+![S3 bucket evidence](img/image-1778207426032.png)
+
+![EC2 instance evidence](img/image-1778207447680.png)
