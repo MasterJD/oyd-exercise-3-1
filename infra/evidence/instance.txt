@@ -1,1 +1,5 @@
-TODO: Run the AWS CLI describe-instances command and paste the output here.
+-----------------------------------------------------
+|                 DescribeInstances                 |
++----------------------+----------+-----------------+
+|  i-0a8e04fd5bd3034b3 |  running |  44.251.54.146  |
++----------------------+----------+-----------------+
